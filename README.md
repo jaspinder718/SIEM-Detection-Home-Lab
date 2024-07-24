@@ -18,6 +18,13 @@ The SIEM Detection Home Lab project aimed to establish a controlled environment 
 - Kali Linux CMD for generating NMAP commands which were detected by the SIEM that was built using Elastic.
 - Elastic Website to create rules to detect and log security events.
 
-- ## Steps
+## Steps
 
-- 
+- Configure an Elastic integration to connect to my Kali Linux VM
+- Paste the given command from the integration into the Kali VM to connect both parties
+- Running multiple NMap commands on the Kali VM
+- Creating Dashboards to view alerts how I would see fit
+- Creating alerts that would show any and every NMap command done in the Kali VM on our integration dashboards
+
+
+![Screenshot_2024-07-13_20-14-12](https://github.com/user-attachments/assets/e4581efe-06c7-43b4-ad75-680d10e70a77)
